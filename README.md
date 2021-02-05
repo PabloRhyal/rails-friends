@@ -1,24 +1,9 @@
-# README
+# FRIENDS LIST APP
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hello! My name is Pablo and this is my first Ruby on Rails App
+following of course a tutorial. I'm pretty happy with the result and
+i think i can convert it in another thing
 
-Things you may want to cover:
+Is easy to understand. A CRUD web with some friends to add.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Hope this don't made you laugh :D
